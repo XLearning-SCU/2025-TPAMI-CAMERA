@@ -22,7 +22,7 @@ Accordingly, **we endow MvRL with the two sociological concepts** by employing a
 
 To restore the incomplete information, we propose a novel data imputation and alignment method **under a unified attention-based framework**.
 
-![release_fig1](.\figs\release_fig1.png)
+![release_fig1](./figs/release_fig1.png)
 
 ## Requirements
 
