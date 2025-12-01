@@ -1,8 +1,8 @@
 # Community-aware Multi-view Representation Learning with Incomplete Information
 
-This repo contains the code and data of our IJCAI paper Incomplete Multi-view Clustering via Prototype-based Imputation and that of our IEEE TPAMI'2025 paper Community-aware Multi-view Representation Learning with Incomplete Information.
+This repo contains the code and data of our IEEE TPAMI'2025 paper Community-aware Multi-view Representation Learning with Incomplete Information and the conference version IJCAI'2023 paper Incomplete Multi-view Clustering via Prototype-based Imputation.
 
-> Haobin Li , Yunfan Li , Mouxing Yang , Peng Hu , Dezhong Peng and Xi Peng, Incomplete Multi-view Clustering via Prototype-based Imputation. 👉 [[paper]](https://www.ijcai.org/proceedings/2023/0435.pdf) 
+> Haobin Li , Yunfan Li , Mouxing Yang , Peng Hu , Dezhong Peng and Xi Peng, Incomplete Multi-view Clustering via Prototype-based Imputation. 👉 [[paper]](https://www.ijcai.org/proceedings/2023/0435.pdf) [[GitHub]](https://github.com/XLearning-SCU/2023-IJCAI-ProImp) 
 
 > Haobin Li, Yijie Lin, Peng Hu, Mouxing Yang, Xi Peng, Community-aware Multi-view Representation Learning with Incomplete Information. 👉 [[paper]](https://pengxi.me/wp-content/uploads/2025/11/Community-aware-Multi-view-Representation-Learning-with-Incomplete-Information.pdf) 
 
