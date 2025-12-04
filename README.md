@@ -95,3 +95,11 @@ If you find our work useful in your research, please consider citing:
 }
 ```
 
+```latex
+@inproceedings{li2023incomplete,
+  title={Incomplete Multi-view Clustering via Prototype-based Imputation},
+  author={Li, Haobin and Li, Yunfan and Yang, Mouxing and Hu, Peng and Peng, Dezhong and Peng, Xi},
+  booktitle={Proceedings of the 32th International Joint Conference on Artificial Intelligence},
+  year={2023}
+}
+```
