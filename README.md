@@ -89,7 +89,7 @@ If you find our work useful in your research, please consider citing:
 ```latex
 @article{li2025CAMERA,
 	title={Community-aware Multi-view Representation Learning with Incomplete Information},
-  	author={Haobin Li, Yijie Lin, Peng Hu, Mouxing Yang, Xi Peng},  
+  	author={Li, Haobin, Lin, Yijie, Hu, Peng, Yang, Mouxing, Peng, Xi},  
 	journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},     
  	year={2025},  
 }
