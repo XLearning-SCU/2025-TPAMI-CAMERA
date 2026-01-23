@@ -87,11 +87,11 @@ racy': 0.4615, 'precision': 0.4551, 'recall': 0.466, 'f_measure': 0.447}}
 If you find our work useful in your research, please consider citing:
 
 ```latex
-@article{li2025CAMERA,
+@article{li2026CAMERA,
 	title={Community-aware Multi-view Representation Learning with Incomplete Information},
   	author={Li, Haobin, Lin, Yijie, Hu, Peng, Yang, Mouxing, Peng, Xi},  
 	journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},     
- 	year={2025},  
+ 	year={2026},  
 }
 ```
 
