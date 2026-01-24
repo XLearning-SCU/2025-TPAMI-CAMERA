@@ -81,7 +81,9 @@ def load_data(args, **kwargs):
         all_data = [train_X, train_Y]
         all_label, all_label_X, all_label_Y = train_label, train_label, train_label
     else:
-        test_label_X, test_label_Y = test_label, test_label
+        shuffle_idx = random.sample(range(len(test_Y)), len(test_Y))
+        test_Y = test_Y[shuffle_idx]
+        test_label_X, test_label_Y = test_label, test_label[shuffle_idx]
         all_data = [np.concatenate((train_X, test_X)), np.concatenate((train_Y, test_Y))]
         all_label = np.concatenate((train_label, test_label))
         all_label_X = np.concatenate((train_label, test_label_X))
